@@ -1,7 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./config",
-        "./data",
-        "./src"
-    ]
-}
