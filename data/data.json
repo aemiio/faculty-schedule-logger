@@ -1,0 +1,72 @@
+[
+  {
+    "emp_num": 2021342,
+    "emp_name": "John Doe",
+    "department": 1,
+    "schedule": [
+      {
+        "days": "M, T, W, TH, F",
+        "time_blocks": "8:00 AM - 5:00 PM"
+      }
+    ]
+  },
+  {
+    "emp_num": 2021343,
+    "emp_name": "Jane Smith",
+    "department": 2,
+    "schedule": [
+      {
+        "days": "M, W",
+        "time_blocks": "9:00 AM - 6:00 PM"
+      }, 
+      {
+        "days": "F",
+        "time_blocks": "7:00 AM - 12:00 PM"
+      }
+    ]
+  },
+  {
+    "emp_num": 2021344,
+    "emp_name": "Alice Johnson",
+    "department": 3,
+    "schedule": [
+      {
+        "days": "T, TH",
+        "time_blocks": "7:30 AM - 4:30 PM"
+      }
+    ]
+  },
+  {
+    "emp_num": 2021345,
+    "emp_name": "Bob Brown",
+    "department": 4,
+    "schedule": [
+      {
+        "days": "M, T, W",
+        "time_blocks": "8:15 AM - 5:15 PM"
+      }
+    ]
+  },
+  {
+    "emp_num": 2021346,
+    "emp_name": "Charlie Davis",
+    "department": 5,
+    "schedule": [
+      {
+        "days": "T, W, F",
+        "time_blocks": "8:45 AM - 5:45 PM"
+      }
+    ]
+  },
+  {
+    "emp_num": 2021347,
+    "emp_name": "Axel Kale",
+    "department": 6,
+    "schedule": [
+      {
+        "days": "M, W",
+        "time_blocks": "9:45 AM - 6:45 PM"
+      }
+    ]
+  }
+]
